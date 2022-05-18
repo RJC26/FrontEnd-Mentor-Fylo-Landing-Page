@@ -11,7 +11,7 @@
     --Btn-background: hsl(224, 93%, 58%);
     --Btn-background-hover: hsl(224, 93%, 65%);
     --Mid-page-link: hsl(170, 45%, 43%);
-    --Mid-page-link-hover: hsl(170, 76%, 72%);;
+    --Mid-page-link-hover: hsl(170, 76%, 72%);
     /* NEUTRAL */
     --Light-Grayish-Blue: hsl(250, 75%, 98%);
     --Light-Gray: hsl(0, 0%, 75%);
@@ -198,7 +198,7 @@ footer{
     display: flex;
     margin: 1.5rem 0 1rem 0;
 }
-.email_phone h5{
+.email_phone h4{
     font-weight: 300;
     font-size: 1.2rem;
 }
@@ -275,7 +275,7 @@ footer{
         text-align: left;
         order: 1;
     }
-    .text_1 p, h2{
+    .text_1 p, h1{
         padding-left: 2rem;
     }
     .image_1{
